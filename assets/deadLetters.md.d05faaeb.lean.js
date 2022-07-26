@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.d431cb05.js";const k=JSON.parse('{"title":"Dead Links","description":"","frontmatter":{},"headers":[],"relativePath":"deadLetters.md","lastUpdated":1658780912000}'),o={name:"deadLetters.md"},i=a("",3),n=[i];function d(s,l,_,c,h,f){return r(),t("div",null,n)}var u=e(o,[["render",d]]);export{k as __pageData,u as default};
